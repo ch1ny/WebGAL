@@ -4776,6 +4776,14 @@ vitest@0.28.5, vitest@^0.28.5:
     vite-node "0.28.5"
     why-is-node-running "^2.2.2"
 
+webgal-parser@4.3.13-5:
+  version "4.3.13-5"
+  resolved "https://registry.yarnpkg.com/webgal-parser/-/webgal-parser-4.3.13-5.tgz#26c8ab930d18e7a55c7aceaa5c2d64fb675e453e"
+  integrity sha512-Bc+u2/ReFHJUVPd/wF6N9INfnv58XxYV2eWbD5ScsZ47bX1R2iIbR6W9pMekHAL4wYeJjVP9y8trmEmIDBNH8g==
+  dependencies:
+    cloudlogjs "^1.0.11"
+    lodash "^4.17.21"
+
 webidl-conversions@^3.0.0:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-3.0.1.tgz#24534275e2a7bc6be7bc86611cc16ae0a5654871"
@@ -4823,9 +4831,9 @@ wide-align@^1.1.0:
     string-width "^1.0.2 || 2 || 3 || 4"
 
 word-wrap@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.3.tgz#610636f6b1f703891bd34771ccb17fb93b47079c"
-  integrity sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.4.tgz#cb4b50ec9aca570abd1f52f33cd45b6c61739a9f"
+  integrity sha512-2V81OA4ugVo5pRo46hAoD2ivUJx8jXmWXfUkY4KFNw0hEptvN0QfH3K4nHiwzGeKl5rFKedV48QVoqYavy4YpA==
 
 wrap-ansi@^6.2.0:
   version "6.2.0"
